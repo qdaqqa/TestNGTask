@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="128514" started-at="2020-01-05T14:27:06Z" finished-at="2020-01-05T14:29:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="128514" started-at="2020-01-05T14:27:06Z" finished-at="2020-01-05T14:29:14Z">
+      <class name="PageobjectwithTestng.TestNGPOM">
+        <test-method status="PASS" signature="testLoginNOK(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PageobjectwithTestng.TestNGPOM@3a5ed7a6]" name="testLoginNOK" duration-ms="22951" started-at="2020-01-05T14:27:06Z" data-provider="storesData" finished-at="2020-01-05T14:27:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qdaqqa.testing@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qasem.2020]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Positive]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginNOK -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:PageobjectwithTestng.TestNGPOM@3a5ed7a6]" name="tearDown" is-config="true" duration-ms="5585" started-at="2020-01-05T14:27:29Z" finished-at="2020-01-05T14:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testLoginNOK(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PageobjectwithTestng.TestNGPOM@3a5ed7a6]" name="testLoginNOK" duration-ms="17298" started-at="2020-01-05T14:27:35Z" data-provider="storesData" finished-at="2020-01-05T14:27:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qdaqqa.testing@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qasem.20]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Negative]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginNOK -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:PageobjectwithTestng.TestNGPOM@3a5ed7a6]" name="tearDown" is-config="true" duration-ms="7698" started-at="2020-01-05T14:27:52Z" finished-at="2020-01-05T14:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testLoginNOK(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PageobjectwithTestng.TestNGPOM@3a5ed7a6]" name="testLoginNOK" duration-ms="17958" started-at="2020-01-05T14:28:00Z" data-provider="storesData" finished-at="2020-01-05T14:28:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Negative]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginNOK -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:PageobjectwithTestng.TestNGPOM@3a5ed7a6]" name="tearDown" is-config="true" duration-ms="6247" started-at="2020-01-05T14:28:18Z" finished-at="2020-01-05T14:28:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testLoginNOK(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PageobjectwithTestng.TestNGPOM@3a5ed7a6]" name="testLoginNOK" duration-ms="19389" started-at="2020-01-05T14:28:24Z" data-provider="storesData" finished-at="2020-01-05T14:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Negative]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginNOK -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:PageobjectwithTestng.TestNGPOM@3a5ed7a6]" name="tearDown" is-config="true" duration-ms="6186" started-at="2020-01-05T14:28:43Z" finished-at="2020-01-05T14:28:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testLoginNOK(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:PageobjectwithTestng.TestNGPOM@3a5ed7a6]" name="testLoginNOK" duration-ms="18258" started-at="2020-01-05T14:28:49Z" data-provider="storesData" finished-at="2020-01-05T14:29:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin1@live.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Negative]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginNOK -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:PageobjectwithTestng.TestNGPOM@3a5ed7a6]" name="tearDown" is-config="true" duration-ms="6334" started-at="2020-01-05T14:29:08Z" finished-at="2020-01-05T14:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- PageobjectwithTestng.TestNGPOM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
